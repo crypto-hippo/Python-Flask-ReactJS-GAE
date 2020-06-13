@@ -7,7 +7,6 @@ Python 3.7
 ```
 cd server
 pip install -r requirements.txt
-
 ```
 
 ## Run Dev Server
