@@ -1,4 +1,4 @@
 Flask==1.0.2
 flask-session==0.3.1
-flask-cors==3.0.8
+flask-cors==3.0.9
 Flask-RESTful==0.3.8
